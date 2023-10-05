@@ -1,0 +1,29 @@
+.container {
+    border: 2px solid black;
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+.box {
+    width: 250px;
+    border: 2px solid gray;
+    align-items: center;
+    justify-content: center;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+
+h4 {
+    margin: 0;
+    padding: 10px;
+}
+
+img {
+    max-width: 95%;
+    max-height: 80%;
+    border-radius: 50%;
+}
